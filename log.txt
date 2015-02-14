@@ -9,3 +9,13 @@ Start: Fri, 13 Feb 2015 20:10 -0800
 End: Fri, 13 Feb 2015 23:50 -0800
 Tasks: Completed multtable.php
 
+Start: Sat, 14 Feb 2015 12:30 -0800
+End: Sat, 14 Feb 2015 14:45 -0800
+Tasks:Implement login.php and content1.php - login/log out functionality
+
+Start: Sat, 14 Feb 2015 18:05 -0800
+End:  Sat, 14 Feb 2015	22:10 -0800
+Tasks:Completed login.php content1.php and content2.php
+	- session persistance
+	-not allowing access to content pages without log in
+
